@@ -319,6 +319,7 @@ footer .copyright {
   margin-bottom: 0;
 }
 footer .theme-by {
+  font-size: 12px;
   text-align: center;
   margin: 10px 0 0;
 }
@@ -767,7 +768,7 @@ div.splitbox div.right {
     padding: 15px 25px;
   }
 }
-.disqus-comments button:hover, 
+.disqus-comments button:hover,
 .disqus-comments button:focus {
   color: #FFF;
   background: #0085a1;
