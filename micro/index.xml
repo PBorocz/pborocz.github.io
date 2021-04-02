@@ -1,37 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Micros on Flirting With Neutrality</title>
-    <link>https://pborocz.github.io/micro/</link>
-    <description>Recent content in Micros on Flirting With Neutrality</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>peter.borocz@gmail.com (Péter Böröcz)</managingEditor>
-    <webMaster>peter.borocz@gmail.com (Péter Böröcz)</webMaster>
-    <lastBuildDate>Fri, 02 Apr 2021 10:12:14 -0700</lastBuildDate><atom:link href="https://pborocz.github.io/micro/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Accrual vs. Cash Accounting in Federal Spending Discourse</title>
-      <link>https://pborocz.github.io/micro/accrual_vs_cash_govt/</link>
-      <pubDate>Fri, 02 Apr 2021 10:12:14 -0700</pubDate>
-      <author>peter.borocz@gmail.com (Péter Böröcz)</author>
-      <guid>https://pborocz.github.io/micro/accrual_vs_cash_govt/</guid>
-      <description>While not an accountant, I believe I can distinguish between cash vs. accrual accounting, pertinently:
- Accrual accounting recognises either the obligation or intent of the government to spend
-money (or the converse) on a planned basis. Cash accounting tracks the actual cash movements.  [Please correct me if there&amp;rsquo;s anything pertinently wrong about this characterisation!]
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Micros on Flirting With Neutrality</title><link>https://pborocz.github.io/micro/</link><description>Recent content in Micros on Flirting With Neutrality</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>peter.borocz@gmail.com (Péter Böröcz)</managingEditor><webMaster>peter.borocz@gmail.com (Péter Böröcz)</webMaster><lastBuildDate>Fri, 02 Apr 2021 10:12:14 -0700</lastBuildDate><atom:link href="https://pborocz.github.io/micro/index.xml" rel="self" type="application/rss+xml"/><item><title>Accrual vs. Cash Accounting in Federal Spending Discourse</title><link>https://pborocz.github.io/micro/accrual_vs_cash_govt/</link><pubDate>Fri, 02 Apr 2021 10:12:14 -0700</pubDate><author>peter.borocz@gmail.com (Péter Böröcz)</author><guid>https://pborocz.github.io/micro/accrual_vs_cash_govt/</guid><description>While not an accountant, I believe I can distinguish between cash vs. accrual accounting, pertinently:
+Accrual accounting recognises either the obligation or intent of the government to spend
+money (or the converse) on a planned basis. Cash accounting tracks the actual cash movements. [Please correct me if there&amp;rsquo;s anything pertinently wrong about this characterisation!]
 From this, we can distinguish several salient points:
-Legislative Spending is an Accrual Basis Concept Legislation that stipulates (future) spending should be treated on an accrual basis, programs</description>
-    </item>
-    
-    <item>
-      <title>&#34;New on New&#34;</title>
-      <link>https://pborocz.github.io/micro/new_on_new/</link>
-      <pubDate>Thu, 25 Mar 2021 16:17:28 -0700</pubDate>
-      <author>peter.borocz@gmail.com (Péter Böröcz)</author>
-      <guid>https://pborocz.github.io/micro/new_on_new/</guid>
-      <description>What is it? When combining more than one new resource with another one.
+Legislative Spending is an Accrual Basis Concept Legislation that stipulates (future) spending should be treated on an accrual basis, programs</description></item><item><title>"New on New"</title><link>https://pborocz.github.io/micro/new_on_new/</link><pubDate>Thu, 25 Mar 2021 16:17:28 -0700</pubDate><author>peter.borocz@gmail.com (Péter Böröcz)</author><guid>https://pborocz.github.io/micro/new_on_new/</guid><description>What is it? When combining more than one new resource with another one.
 Resources could be almost anything, i.e. people, technology, processes etc.
-What are some examples?  Pairing a brand new technology stack on a brand-new project (particularly without adequate risk-management). Pairing a newly-hired employee under a newly-hired supervisor/manager. Pairing a brand new project manager onto a new, high-risk project.  Suggestions? As a risk manager, I always suggest never getting into the New on New scenario.</description>
-    </item>
-    
-  </channel>
-</rss>
+What are some examples? Pairing a brand new technology stack on a brand-new project (particularly without adequate risk-management). Pairing a newly-hired employee under a newly-hired supervisor/manager. Pairing a brand new project manager onto a new, high-risk project. Suggestions? As a risk manager, I always suggest never getting into the New on New scenario.</description></item></channel></rss>
