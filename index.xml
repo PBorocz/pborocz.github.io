@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flirting With Neutrality</title>
-    <link>https://pborocz.github.io/fwn_public/</link>
+    <link>https://pborocz.github.io/</link>
     <description>Recent content on Flirting With Neutrality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>peter.borocz@gmail.com (Péter Böröcz)</managingEditor>
     <webMaster>peter.borocz@gmail.com (Péter Böröcz)</webMaster>
-    <lastBuildDate>Thu, 25 Mar 2021 16:17:28 -0700</lastBuildDate><atom:link href="https://pborocz.github.io/fwn_public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 16:17:28 -0700</lastBuildDate><atom:link href="https://pborocz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;New on New&#34;</title>
-      <link>https://pborocz.github.io/fwn_public/micro/new_on_new/</link>
+      <link>https://pborocz.github.io/micro/new_on_new/</link>
       <pubDate>Thu, 25 Mar 2021 16:17:28 -0700</pubDate>
       <author>peter.borocz@gmail.com (Péter Böröcz)</author>
-      <guid>https://pborocz.github.io/fwn_public/micro/new_on_new/</guid>
+      <guid>https://pborocz.github.io/micro/new_on_new/</guid>
       <description>What is it? When combining more than one new resource with another one. Resources could be almost anything, i.e. people, technology, processes etc.
 What are some examples?  Pairing a brand new technology stack on a brand-new project (particularly without adequate risk-management). Pairing a newly-hired employee under a newly-hired supervisor/manager. Pairing a brand new project manager onto a new, high-risk project.  Suggestions? As a risk manager, I always suggest never getting into the New on New scenario.</description>
     </item>
     
     <item>
       <title>Resumé &amp; Work History</title>
-      <link>https://pborocz.github.io/fwn_public/page/resume/</link>
+      <link>https://pborocz.github.io/page/resume/</link>
       <pubDate>Thu, 25 Mar 2021 15:51:24 -0700</pubDate>
       <author>peter.borocz@gmail.com (Péter Böröcz)</author>
-      <guid>https://pborocz.github.io/fwn_public/page/resume/</guid>
+      <guid>https://pborocz.github.io/page/resume/</guid>
       <description>For better or worse, this is my complete professional work history. I&amp;rsquo;ve long wanted to keep a single, detailed list of all the various positions I&amp;rsquo;ve held and projects I&amp;rsquo;ve participated in over my 35 year working history, here it is!
 Professional Experience 2011-2017: Technical Software Director, Energy Solutions, Oakland CA   Consulting and Development Services:
  Architect and principal developer of firm’s first commercial product, specifically on behalf of nationwide utility rebate incentive processing (Python).</description>
@@ -32,10 +32,10 @@ Professional Experience 2011-2017: Technical Software Director, Energy Solutions
     
     <item>
       <title>About</title>
-      <link>https://pborocz.github.io/fwn_public/page/about/</link>
+      <link>https://pborocz.github.io/page/about/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <author>peter.borocz@gmail.com (Péter Böröcz)</author>
-      <guid>https://pborocz.github.io/fwn_public/page/about/</guid>
+      <guid>https://pborocz.github.io/page/about/</guid>
       <description>My name is Péter Böröcz. I&amp;rsquo;m an actively retired technology manager and software developer.
 Detailed Background You can view my detailed resumé/curriculm vitae here
 Content Content on this site is broken down into a few different sections based on my interests and activities:
@@ -44,10 +44,10 @@ Writing Both short and long form commentary about current events, changes in the
     
     <item>
       <title>Site status!</title>
-      <link>https://pborocz.github.io/fwn_public/post/2015-01-04-first-post/</link>
+      <link>https://pborocz.github.io/post/2015-01-04-first-post/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <author>peter.borocz@gmail.com (Péter Böröcz)</author>
-      <guid>https://pborocz.github.io/fwn_public/post/2015-01-04-first-post/</guid>
+      <guid>https://pborocz.github.io/post/2015-01-04-first-post/</guid>
       <description>This site is currently under-development and is projected to come to fruition on mid-April 2021.</description>
     </item>
     
